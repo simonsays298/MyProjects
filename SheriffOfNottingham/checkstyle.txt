@@ -1,0 +1,21 @@
+Starting audit...
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:160:52: 'sack' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:187:53: 'sack' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:209:55: 'sack' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:209:74: 'declareAsset' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:252:57: 'sack' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:270: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:279: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:283:69: ',' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:285: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:297: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:325:30: 'countGoods' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Basic.java:383: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Greedy.java:24:74: 'sack' hides a field. [HiddenField]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Main.java:11:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Main.java:45:5: Method length is 188 lines (max allowed is 150). [MethodLength]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Main.java:80: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Main.java:209: Line has trailing spaces. [RegexpSingleline]
+[ERROR] /mnt/d/POO/TEMA1/SheriffofNottingham/main/Main.java:333:5: Method length is 266 lines (max allowed is 150). [MethodLength]
+Audit done.
+Checkstyle ends with 18 errors.
